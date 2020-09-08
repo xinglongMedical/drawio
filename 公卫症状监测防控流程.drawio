@@ -1,1 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T14:05:14.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="IMEZEu64Np_0kl02bIwj" version="13.6.5" type="github"><diagram id="9mRdWQnlRw0t8pWqcOxm" name="Page-1">7Vtdc5s4FP01enQGxJd4BBs3u5Od3Zl0Nm1fdrBRbLrY8mA5sfvr914hjAk4YTt1IE1n/CBdJAE6Okf3XmFijVf7D3m8Wf4hEp4RaiR7Yk0IpaZNKcGfkRwKi+fbhWGRp4luVBlu029cGw1t3aUJ39YaSiEymW7qxrlYr/lc1mxxnovHerN7kdXvuokXvGG4ncdZ03qXJnJZWBn1Kvs1TxfL8s6m6xdXVnHZWL/Jdhkn4vHEZEXEGudCyKK02o95hpNXzkvRb3rm6vHBcr6WXTqM7r9u2d3dP5J9+fT7x9vrv6/FbyNHP5s8lC/ME3h/XRW5XIqFWMdZVFnDXOzWCcdRDahVbW6E2IDRBONXLuVBgxnvpADTUq4yfZXvU/kJu185uvb55Mpkr0dWlYOu3Iu11AOaDOrFc+PDnp0ObdqKXT7nz8xBuazifMHlM+3sI2iw2rlYcZkfoF/Os1imD/XniPWyWxzbVchAQYPzP4Byi3Ef4myn70QihwQR8SMSucT3SOi2YnkTz4CStfmPs3SxhvIcpornYHjguUxhzQf6wipNkgJqvk2/xTM1HqKwEelaqldzQuJMzuKCA/I9aSGoHqyixSli55doc9r16MYVaIymnJaYkVVUOwOjB/8LX+6kibi/38KCeIrc8Rm+H0yzFUw2JmFIIp/4PgmoQtUhoYEFNkGosRCRwFGNpySwGoDXqfm4TCW/3cRq9T+CPteXQWfoGqQ6i4bpGjUozBLlx0o7j7bliW46xoV44zWm+iOhodmYufcne/QtyB5tYYpH/DFhJrIg9EloaTogU+CSTUJFkGBC/MLiEVZQJiLMJRHDBsxGNoUBthkaiSzXqZPI7JtE7Bddyk1l2HTx362XwJ6l1Mi4stwaqeyh+whWu/KBmHlYYAFC2fQRqJvBNIWzHEoLLJEIpBH0krV199GCnoWD3UNPjTMlPtzLRmcE2xTd/cHJpNPF13BfUyZN2odOXlDz7I6aZ55B6nVEz7Tf67RbvU57L7mDIUy70ee02y37QjNSbLjGT6HaLuMNFueHLAVEcvqyhs8K7G5mR0M8/3ehEP1zJ2EYru1bjY9zIf/YqQs/9VuE32kRftO4mPJ7vzzkURmmvEwgt1fdMjoyCFwmVrhYkQolFZXAcYpUegYjSIZRZqDaBFBWISk0ZqGKMqc6AEX3u7k++nafnrLItjuyyL0YidrSYk2ftRHPIDABAoDgGSozAL1C4psqxncUHq5qo/IAYIfy0PA4uq8aD6tr1H85PNpCEBujgUARxYcFbtUyLD8lMI4/NGBoLw7v9+w2MMX54aQTVj+fXqu6qdpr7FJux12K9utdtx34NDceG7eZYuNBP89TFuCTp3OhwFEdwI/1lhbYJVODtu7A3Ymi42Czo0/2Laf3fYu2ORQMvQlmaZ0s9A2mHsEDbSxSNUOb2Sd5Z+b1LnRv5nh6gEJHu2asaa/xLG0XOtQuXwndFH9N6WtbGG8+i02fP+weGVcQ7tIaS8vD5OFmsmmvx0fmCYcrRr/E4hqHK0oPmcVenyy2aAuLi68UpshZ2AnDyU/K2RePnij165wd/AcqtCX00ydL2028rs6WunikLsaLITsJEG2ssrYki74JPHTtPg1XaSlWs922HzfJrJ8kuk7TTaIma7pJR9/px7PvzXzPMkQ/yeuosFa/flLzSyblJ0GgQcsvwzxlCdB5wryjq74nKy4FimNumwr3HXe4Vj2ic1nfEZ3V/LJu6HwyB+OxlGgOPO6w2qL2Iitpqu3M1DmTcIyZECwEaoM7bnnHFGZzFxs4w7wLMgyq1TfthT9S/TPAiv4D</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-08T15:49:51.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="tU-_lyg5-RtdoAcbIXeC" version="13.6.5" type="github">
+  <diagram id="9mRdWQnlRw0t8pWqcOxm" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="-fjs8WW_t8ZXJTSHVHoI-1" target="-fjs8WW_t8ZXJTSHVHoI-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-6" value="实时" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="-fjs8WW_t8ZXJTSHVHoI-5" vertex="1" connectable="0">
+          <mxGeometry x="0.1429" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-1" value="医院数据接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="160" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-7" value="T+1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="-fjs8WW_t8ZXJTSHVHoI-2" target="-fjs8WW_t8ZXJTSHVHoI-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-2" value="省平台电子病历资源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="365" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="-fjs8WW_t8ZXJTSHVHoI-3" target="-fjs8WW_t8ZXJTSHVHoI-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-9" value="实时" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="-fjs8WW_t8ZXJTSHVHoI-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.36" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-3" value="症状数据&lt;br&gt;（症状问卷插件）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="560" y="120" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="-fjs8WW_t8ZXJTSHVHoI-4" target="-fjs8WW_t8ZXJTSHVHoI-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="-fjs8WW_t8ZXJTSHVHoI-4" target="-fjs8WW_t8ZXJTSHVHoI-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="-fjs8WW_t8ZXJTSHVHoI-4" target="-fjs8WW_t8ZXJTSHVHoI-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-4" value="数据平台" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="350" y="290" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="-fjs8WW_t8ZXJTSHVHoI-10" target="-fjs8WW_t8ZXJTSHVHoI-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-10" value="数据分析及预警模型运算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="350" y="440" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-11" value="症状实时动态监测报告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-13" value="传染病实时动态监测报告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="590" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="-fjs8WW_t8ZXJTSHVHoI-16" target="-fjs8WW_t8ZXJTSHVHoI-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-16" value="预警信号产生，判定信号来源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="350" y="540" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-20" value="调查处置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="365" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="-fjs8WW_t8ZXJTSHVHoI-23" target="-fjs8WW_t8ZXJTSHVHoI-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-26" value="错误预警" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="-fjs8WW_t8ZXJTSHVHoI-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.2222" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="-fjs8WW_t8ZXJTSHVHoI-23" target="-fjs8WW_t8ZXJTSHVHoI-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-32" value="可能" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="-fjs8WW_t8ZXJTSHVHoI-28" vertex="1" connectable="0">
+          <mxGeometry x="-0.2292" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-23" value="&lt;span&gt;预警信号核实与分析&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="316" y="650" width="218" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="-fjs8WW_t8ZXJTSHVHoI-27" target="-fjs8WW_t8ZXJTSHVHoI-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-27" value="防控隔离措施" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="630" y="680" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="-fjs8WW_t8ZXJTSHVHoI-30" target="-fjs8WW_t8ZXJTSHVHoI-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-fjs8WW_t8ZXJTSHVHoI-30" value="流行强度预测分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="630" y="780" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aza0E-LAemfDvX0yUTV9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aza0E-LAemfDvX0yUTV9-1" target="-fjs8WW_t8ZXJTSHVHoI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aza0E-LAemfDvX0yUTV9-1" value="场景：问诊过程填写" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="550" y="20" width="180" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
