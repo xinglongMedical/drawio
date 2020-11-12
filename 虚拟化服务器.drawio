@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T08:03:01.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="42RYYWgwhiEfVXdU5_Tm" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T08:07:59.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="5NHqyewS7C08eSL9TeO2" version="13.9.1" type="github">
   <diagram id="a9xWCEwnpVEeIXBJkN2v" name="Page-5">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,7 +193,7 @@
         <mxCell id="VveefS2Lsn5nwEsutOwT-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="_sOQdATYZZMaT-qopSS8-1" source="VveefS2Lsn5nwEsutOwT-98" target="VveefS2Lsn5nwEsutOwT-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ILvByJmzDbEsr_OMc3Pg-1" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Test-java-CentOS-7.4&amp;nbsp; cpu :8&lt;/span&gt;&lt;/p&gt;&lt;span&gt;内存&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;:8192M &lt;/span&gt;&lt;span&gt;磁盘：&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;0.1T&lt;br&gt;&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;172.16.10.204&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="_sOQdATYZZMaT-qopSS8-1" vertex="1">
+        <mxCell id="ILvByJmzDbEsr_OMc3Pg-1" value="&lt;pre&gt;&lt;span lang=&quot;EN-US&quot;&gt;应用测试&amp;nbsp; &lt;/span&gt;&lt;/pre&gt;&lt;pre&gt;&lt;span lang=&quot;EN-US&quot;&gt;cpu :8&lt;/span&gt;&lt;span&gt;内存&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;:8192M &lt;/span&gt;&lt;span&gt;磁盘：&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;0.1T&lt;br&gt;&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;172.16.10.204&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="_sOQdATYZZMaT-qopSS8-1" vertex="1">
           <mxGeometry x="1176.75" y="175" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ILvByJmzDbEsr_OMc3Pg-3" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;SourceServer-Ub&amp;nbsp; cpu:4&lt;/span&gt;&lt;/p&gt;&lt;span&gt;内存&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;:16384M &lt;/span&gt;&lt;span&gt;磁盘&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;:2.155T&lt;br&gt;&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;172.16.10.250&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="_sOQdATYZZMaT-qopSS8-1" vertex="1">
@@ -259,7 +259,7 @@
         <mxCell id="qQzqWTpzE-Hvz-Owr3Zb-2" value="&lt;span&gt;共计内存：680G&lt;br&gt;硬盘：60.8T&lt;br&gt;CPU：160&lt;br&gt;机器数目：15&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_sOQdATYZZMaT-qopSS8-1">
           <mxGeometry x="780" y="95" width="147.5" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="qQzqWTpzE-Hvz-Owr3Zb-3" value="&lt;span&gt;共计内存：156G&lt;br&gt;硬盘：5.2T&lt;br&gt;CPU：70&lt;br&gt;机器数目：16&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_sOQdATYZZMaT-qopSS8-1">
+        <mxCell id="qQzqWTpzE-Hvz-Owr3Zb-3" value="&lt;span&gt;共计内存：148G&lt;br&gt;硬盘：5.1T&lt;br&gt;CPU：62&lt;br&gt;机器数目：15&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_sOQdATYZZMaT-qopSS8-1">
           <mxGeometry x="1130" y="90" width="147.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qQzqWTpzE-Hvz-Owr3Zb-4" value="&lt;span&gt;共计内存：392G&lt;br&gt;硬盘：220T&lt;br&gt;CPU：114&lt;br&gt;机器数目：11&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_sOQdATYZZMaT-qopSS8-1">
