@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T08:13:34.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="4HOIXfagP8n8tj5TXNs4" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T08:14:14.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="X-47qPYQUAXMdssbzHx5" version="13.9.1" type="github">
   <diagram id="a9xWCEwnpVEeIXBJkN2v" name="Page-5">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
         <mxCell id="qQzqWTpzE-Hvz-Owr3Zb-2" value="&lt;span&gt;共计内存：680G&lt;br&gt;硬盘：60.8T&lt;br&gt;CPU：160&lt;br&gt;机器数目：15&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_sOQdATYZZMaT-qopSS8-1">
           <mxGeometry x="780" y="95" width="147.5" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="qQzqWTpzE-Hvz-Owr3Zb-3" value="&lt;span&gt;共计内存：148G&lt;br&gt;硬盘：5.1T&lt;br&gt;CPU：62&lt;br&gt;机器数目：15&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_sOQdATYZZMaT-qopSS8-1">
+        <mxCell id="qQzqWTpzE-Hvz-Owr3Zb-3" value="&lt;span&gt;共计内存：140G&lt;br&gt;硬盘：5T&lt;br&gt;CPU：54&lt;br&gt;机器数目：14&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_sOQdATYZZMaT-qopSS8-1">
           <mxGeometry x="1130" y="90" width="147.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qQzqWTpzE-Hvz-Owr3Zb-4" value="&lt;span&gt;共计内存：392G&lt;br&gt;硬盘：220T&lt;br&gt;CPU：114&lt;br&gt;机器数目：11&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_sOQdATYZZMaT-qopSS8-1">
