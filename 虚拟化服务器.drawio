@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T08:51:51.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Z6J8X07jMCH9zAkD-TOR" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T01:42:32.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="9e9siAX1n7b8acjwG_B0" version="13.9.1" type="github">
   <diagram id="a9xWCEwnpVEeIXBJkN2v" name="Page-5">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="753" y="770" width="357" height="320" as="geometry" />
         </mxCell>
         <mxCell id="RmF8rrvMvzuQaB33yWGe-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="_sOQdATYZZMaT-qopSS8-1" vertex="1">
-          <mxGeometry x="1130" y="90" width="450" height="1000" as="geometry" />
+          <mxGeometry x="1130" y="90" width="240" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="VveefS2Lsn5nwEsutOwT-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="_sOQdATYZZMaT-qopSS8-1" vertex="1">
           <mxGeometry x="40" y="770" width="700" height="320" as="geometry" />
@@ -173,13 +173,13 @@
           <mxGeometry x="941.75" y="100" width="146.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VveefS2Lsn5nwEsutOwT-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="_sOQdATYZZMaT-qopSS8-1" vertex="1">
-          <mxGeometry x="1361.75" y="185" width="190" height="140" as="geometry" />
+          <mxGeometry x="763.25" y="880" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="VveefS2Lsn5nwEsutOwT-86" value="3台：&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.5pt ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;sans-serif&amp;#34;&quot;&gt;Data-centos&lt;/span&gt;&lt;br&gt;&lt;span&gt;Centos74&lt;/span&gt;&lt;span&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;cpu:4&amp;nbsp;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;磁盘&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;:0.1t\16G&lt;br&gt;&lt;/span&gt;&lt;span&gt;共计：12核48G 0.3T&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="_sOQdATYZZMaT-qopSS8-1" vertex="1">
-          <mxGeometry x="1371.75" y="195" width="170" height="60" as="geometry" />
+          <mxGeometry x="773.25" y="890" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VveefS2Lsn5nwEsutOwT-87" value="N1:172.16.10.21(16G)&lt;br&gt;N2:172.16.10.22(16G)&lt;br&gt;N3:172.16.10.23(16G)" style="rounded=0;whiteSpace=wrap;html=1;" parent="_sOQdATYZZMaT-qopSS8-1" vertex="1">
-          <mxGeometry x="1381.75" y="265" width="150" height="50" as="geometry" />
+          <mxGeometry x="783.25" y="960" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VveefS2Lsn5nwEsutOwT-90" value="&lt;pre&gt;Win2008R2&lt;br&gt;&lt;span lang=&quot;EN-US&quot;&gt;172.16.8.8&lt;br&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&amp;nbsp;cpu :4&lt;/span&gt;&lt;span&gt;内存&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;:8192M &lt;/span&gt;&lt;span&gt;磁盘&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;:0.5T&lt;/span&gt;&lt;/pre&gt;&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="_sOQdATYZZMaT-qopSS8-1" vertex="1">
           <mxGeometry x="1171" y="730" width="165" height="50" as="geometry" />
