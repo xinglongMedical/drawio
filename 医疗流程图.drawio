@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T09:09:24.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="i4NYfPa2UraljXsVAq1z" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T13:54:39.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="j8JWclxIEaSqjXbcD_wI" version="13.9.9" type="github">
   <diagram id="uJecQscuBBFfsl-j5q46" name="Page-1">
-    <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -406,6 +406,12 @@
         </mxCell>
         <mxCell id="7YA66HnuWneSzZkzsf_V-105" value="" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="490" y="-80" width="97" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="7YA66HnuWneSzZkzsf_V-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/streamline-emoji-1/48/130-man-student-2-128.png;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-55" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="7YA66HnuWneSzZkzsf_V-107" value="死亡" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/materia-halloween-free/24/039_028_death_reaper_halloween_grim-128.png;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="4170" y="-50" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
