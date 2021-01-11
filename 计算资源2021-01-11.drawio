@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T08:10:15.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="14.1.8" etag="TS4jRr9C1OCzd2XKHk-h" type="github"><diagram id="3iLBjZ1MdMXQetltNG2L">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-11T08:10:26.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="MI7nhHzAE3cDupGul-MA" version="14.1.8" type="github">
+  <diagram id="3iLBjZ1MdMXQetltNG2L" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JPd29xi3c-dK4yCqY5et-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontFamily=Helvetica;" edge="1" parent="1" source="JPd29xi3c-dK4yCqY5et-5" target="JPd29xi3c-dK4yCqY5et-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontFamily=Helvetica;" edge="1" parent="1" source="JPd29xi3c-dK4yCqY5et-5" target="JPd29xi3c-dK4yCqY5et-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontFamily=Helvetica;" edge="1" parent="1" source="JPd29xi3c-dK4yCqY5et-5" target="JPd29xi3c-dK4yCqY5et-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontFamily=Helvetica;" edge="1" parent="1" source="JPd29xi3c-dK4yCqY5et-5" target="JPd29xi3c-dK4yCqY5et-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-5" value="研究院计算资源" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontFamily=Helvetica;" edge="1" parent="1" source="JPd29xi3c-dK4yCqY5et-10" target="JPd29xi3c-dK4yCqY5et-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontFamily=Helvetica;" edge="1" parent="1" source="JPd29xi3c-dK4yCqY5et-10" target="JPd29xi3c-dK4yCqY5et-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontFamily=Helvetica;" edge="1" parent="1" source="JPd29xi3c-dK4yCqY5et-10" target="JPd29xi3c-dK4yCqY5et-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0;fontFamily=Helvetica;" edge="1" parent="1" source="JPd29xi3c-dK4yCqY5et-10" target="JPd29xi3c-dK4yCqY5et-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-10" value="虚拟化服务器&lt;br style=&quot;font-size: 15px;&quot;&gt;（可根据需求灵活调配资源）" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0;fontFamily=Helvetica;" edge="1" parent="1" source="JPd29xi3c-dK4yCqY5et-13" target="JPd29xi3c-dK4yCqY5et-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontFamily=Helvetica;" edge="1" parent="1" source="JPd29xi3c-dK4yCqY5et-13" target="JPd29xi3c-dK4yCqY5et-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-13" value="物理机&lt;br style=&quot;font-size: 15px;&quot;&gt;(性能好，扩展性低)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0;fontFamily=Helvetica;" edge="1" parent="1" source="JPd29xi3c-dK4yCqY5et-15" target="JPd29xi3c-dK4yCqY5et-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-15" value="高性能&lt;br style=&quot;font-size: 15px;&quot;&gt;（所有提交作业必须经过PI）" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="480" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontFamily=Helvetica;" edge="1" parent="1" source="JPd29xi3c-dK4yCqY5et-18" target="JPd29xi3c-dK4yCqY5et-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0;fontFamily=Helvetica;" edge="1" parent="1" source="JPd29xi3c-dK4yCqY5et-18" target="JPd29xi3c-dK4yCqY5et-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-18" value="其他" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="220" y="600" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-19" value="LAB002:172.16.10.241&lt;br style=&quot;font-size: 15px;&quot;&gt;侯庆振团队专用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="520" y="140" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-20" value="LAB001：172.16.10.209&lt;br style=&quot;font-size: 15px&quot;&gt;侯庆振团队专用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-21" value="R:172.16.10.235&lt;br style=&quot;font-size: 15px;&quot;&gt;临时公用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-22" value="R:172.16.10.239&lt;br style=&quot;font-size: 16px;&quot;&gt;临时公用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-23" value="R:222.194.63.72&lt;br style=&quot;font-size: 17px;&quot;&gt;临时公用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="520" y="410" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-24" value="R:222.194.63.71&lt;br style=&quot;font-size: 16px;&quot;&gt;临时公用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="350" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-25" value="2台CPU 4台GPU机器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="520" y="485" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-26" value="租赁超算资源" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="500" y="560" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JPd29xi3c-dK4yCqY5et-27" value="超算中心等合作机构" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="500" y="640" width="160" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
