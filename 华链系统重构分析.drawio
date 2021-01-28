@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T10:06:46.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="kTV5csBVdc9XYVT2IInu" version="14.2.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-01-28T10:07:54.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="lu6mn18w2gUaSJVa73u4" version="14.2.6" type="github" pages="7">
   <diagram id="zBc5cqGLjgYpfbMbp463" name="千佛山平台">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -457,13 +457,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMPeA_vs8Txne51qMHOB-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="RMPeA_vs8Txne51qMHOB-1" vertex="1">
-          <mxGeometry x="320" y="560" width="170" height="110" as="geometry" />
+          <mxGeometry x="320" y="560" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="RMPeA_vs8Txne51qMHOB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="RMPeA_vs8Txne51qMHOB-1" source="RMPeA_vs8Txne51qMHOB-23" target="RMPeA_vs8Txne51qMHOB-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMPeA_vs8Txne51qMHOB-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="RMPeA_vs8Txne51qMHOB-1" vertex="1">
-          <mxGeometry x="320" y="320" width="170" height="110" as="geometry" />
+          <mxGeometry x="320" y="320" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="RMPeA_vs8Txne51qMHOB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="RMPeA_vs8Txne51qMHOB-1" source="RMPeA_vs8Txne51qMHOB-3" target="RMPeA_vs8Txne51qMHOB-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -531,7 +531,7 @@
           <mxGeometry x="350" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMPeA_vs8Txne51qMHOB-25" value="相同" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="RMPeA_vs8Txne51qMHOB-1" vertex="1">
-          <mxGeometry x="240" y="490" width="80" height="40" as="geometry" />
+          <mxGeometry x="240" y="490" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y8lfAHshxAnPTfAr3kyb-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="RMPeA_vs8Txne51qMHOB-1" source="RMPeA_vs8Txne51qMHOB-28" target="RMPeA_vs8Txne51qMHOB-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -549,7 +549,7 @@
           <mxGeometry x="310" y="300" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RMPeA_vs8Txne51qMHOB-36" value="抽数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="RMPeA_vs8Txne51qMHOB-1" vertex="1">
-          <mxGeometry x="310" y="540" width="40" height="20" as="geometry" />
+          <mxGeometry x="320" y="540" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RMPeA_vs8Txne51qMHOB-38" value="分析中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="RMPeA_vs8Txne51qMHOB-1" vertex="1">
           <mxGeometry x="800" y="460" width="90" height="40" as="geometry" />
@@ -570,7 +570,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7fjHNApR-S9G4e8qijR-0" value="原始数据ETL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="RMPeA_vs8Txne51qMHOB-1" vertex="1">
-          <mxGeometry x="140" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="170" y="250" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
