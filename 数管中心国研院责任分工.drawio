@@ -1,0 +1,220 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3" pages="2">
+  <diagram name="第 1 页" id="u0IqyC7Dfnha-lF6F4t4">
+    <mxGraphModel dx="1335" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-1" value="山东省卫健委" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="112" y="40" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ozEgoofDSApq0i9FSb5I-2" value="任务分派" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jDBb3KQfTTn3vINd1pHE-2" target="ozEgoofDSApq0i9FSb5I-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-2" value="山东健康医疗大数据管理中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="252" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-3" value="全省三甲医院" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="431" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-4" value="济南超算中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="397" y="431" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-5" value="案例库主体平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="375" y="557" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-6" value="科研机构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="138" y="684" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-7" value="医疗机构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="312" y="684" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-8" value="企业用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="486" y="684" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-9" value="山东省医学会" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="385" y="40" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-10" value="北方健康公司" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="603" y="431" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-11" value="总体规划/制定制度/统筹协调" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1" source="jDBb3KQfTTn3vINd1pHE-1" target="jDBb3KQfTTn3vINd1pHE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-12" value="监管考核/政策支持" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1" source="jDBb3KQfTTn3vINd1pHE-1" target="jDBb3KQfTTn3vINd1pHE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-13" value="技术标准制定/数据治理" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.82;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ozEgoofDSApq0i9FSb5I-1" target="jDBb3KQfTTn3vINd1pHE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-14" value="算力支撑/模型训练" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ozEgoofDSApq0i9FSb5I-1" target="jDBb3KQfTTn3vINd1pHE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-15" value="标准化数据上传" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="1" source="jDBb3KQfTTn3vINd1pHE-3" target="jDBb3KQfTTn3vINd1pHE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-16" value="算力资源供给" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.54;entryY=0.01;rounded=0;" edge="1" parent="1" source="jDBb3KQfTTn3vINd1pHE-4" target="jDBb3KQfTTn3vINd1pHE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-17" value="数据服务输出" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jDBb3KQfTTn3vINd1pHE-5" target="jDBb3KQfTTn3vINd1pHE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-18" value="临床支持服务" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jDBb3KQfTTn3vINd1pHE-5" target="jDBb3KQfTTn3vINd1pHE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-19" value="商用数据产品" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jDBb3KQfTTn3vINd1pHE-5" target="jDBb3KQfTTn3vINd1pHE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-20" value="标准审定" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.61;entryY=0;rounded=0;" edge="1" parent="1" source="jDBb3KQfTTn3vINd1pHE-9" target="jDBb3KQfTTn3vINd1pHE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDBb3KQfTTn3vINd1pHE-21" value="运营推广" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.05;rounded=0;" edge="1" parent="1" source="jDBb3KQfTTn3vINd1pHE-10" target="jDBb3KQfTTn3vINd1pHE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fP3Ae8iJj8E5ci41Grl-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jDBb3KQfTTn3vINd1pHE-2" target="jDBb3KQfTTn3vINd1pHE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fP3Ae8iJj8E5ci41Grl-2" value="数据服务包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4fP3Ae8iJj8E5ci41Grl-1">
+          <mxGeometry x="0.0661" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozEgoofDSApq0i9FSb5I-1" value="国家健康医疗大数据研究院" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="252" height="54" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xjxt8y33gZ0Xobj6mKy7" name="第 2 页">
+    <mxGraphModel dx="1335" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8XuI1QQmj_igKlrlit6y-1" value="质量闭环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="144" width="883" height="303" as="geometry" />
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-2" value="省数管理中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="24" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-3" value="省卫健委" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="55" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-4" value="国家健康医疗大数据研究院" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="336" y="310" width="252" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-5" value="数据清洗集群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="285" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-6" value="山东省医学会" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="722" y="55" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-7" value="全省三甲医院" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="722" y="248" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-8" value="数据评审委员会" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="206" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-9" value="质量控制模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="384" y="206" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-10" value="伦理审查委员会" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="358" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-11" value="北方健康公司" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="722" y="482" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-12" value="企业用户群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="482" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-13" value="统筹协调" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="8XuI1QQmj_igKlrlit6y-2" target="8XuI1QQmj_igKlrlit6y-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="276" y="82" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-14" value="任务派发" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0;entryY=0.11;rounded=0;" edge="1" parent="1" source="8XuI1QQmj_igKlrlit6y-2" target="8XuI1QQmj_igKlrlit6y-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="276" y="306" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-15" value="资源调控" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.19;entryX=0.42;entryY=0;rounded=0;" edge="1" parent="1" source="8XuI1QQmj_igKlrlit6y-2" target="8XuI1QQmj_igKlrlit6y-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="276" y="20" />
+              <mxPoint x="962" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-16" value="标准输出" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0;entryX=0.23;entryY=1;rounded=0;" edge="1" parent="1" source="8XuI1QQmj_igKlrlit6y-4" target="8XuI1QQmj_igKlrlit6y-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-17" value="技术指导" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=0;entryX=0.07;entryY=0.01;rounded=0;" edge="1" parent="1" source="8XuI1QQmj_igKlrlit6y-4" target="8XuI1QQmj_igKlrlit6y-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="218" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-18" value="数据回馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1.01;entryX=1;entryY=0.45;rounded=0;" edge="1" parent="1" source="8XuI1QQmj_igKlrlit6y-7" target="8XuI1QQmj_igKlrlit6y-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="333" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-19" value="算力供给" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.93;entryY=1;rounded=0;" edge="1" parent="1" source="8XuI1QQmj_igKlrlit6y-5" target="8XuI1QQmj_igKlrlit6y-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="962" y="385" />
+              <mxPoint x="655" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-20" value="验证指令" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="8XuI1QQmj_igKlrlit6y-8" target="8XuI1QQmj_igKlrlit6y-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-21" value="修订反馈" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0;entryY=0.35;rounded=0;" edge="1" parent="1" source="8XuI1QQmj_igKlrlit6y-9" target="8XuI1QQmj_igKlrlit6y-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-22" value="合规约束" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.09;entryY=1;rounded=0;" edge="1" parent="1" source="8XuI1QQmj_igKlrlit6y-10" target="8XuI1QQmj_igKlrlit6y-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="276" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-23" value="生态构建" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="8XuI1QQmj_igKlrlit6y-11" target="8XuI1QQmj_igKlrlit6y-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-24" value="数据服务包" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0.23;entryY=0.01;rounded=0;" edge="1" parent="1" source="8XuI1QQmj_igKlrlit6y-4" target="8XuI1QQmj_igKlrlit6y-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="416" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XuI1QQmj_igKlrlit6y-25" value="原始数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.12;rounded=0;" edge="1" parent="1" source="8XuI1QQmj_igKlrlit6y-7" target="8XuI1QQmj_igKlrlit6y-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="962" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
